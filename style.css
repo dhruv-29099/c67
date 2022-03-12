@@ -1,0 +1,24 @@
+body
+{
+    text-align: center;
+    background-color: gold;
+}
+#myCarousel
+{
+    background-color: red;
+}
+#app{
+    background-color: aliceblue;
+    }
+#games{
+background-color: yellow;
+}
+#myCarousel img{
+height: 300px;
+margin-top: 35px;
+}
+p{
+font-weight: bold;
+}
+
+
